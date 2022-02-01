@@ -91,7 +91,7 @@ These results were better than the previous since it were almost of 70% and this
 
 <br>
 <p align="center">
-    <img src="https://github.com/CharlesDeLabra/Housing-Number-recognition-with-ANN/blob/main/images/data4.png?raw=true" alt="Data4" width=1000 height=353> 
+    <img src="https://github.com/CharlesDeLabra/Housing-Number-recognition-with-ANN/blob/main/images/data4.png?raw=true" alt="Data4" width=637 height=941> 
 </p>
 <br>
 
