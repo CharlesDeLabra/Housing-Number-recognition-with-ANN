@@ -64,7 +64,7 @@ After creating and training the previous model the results were the next ones:
 
 <br>
 <p align="center">
-    <img src="https://github.com/CharlesDeLabra/Housing-Number-recognition-with-ANN/blob/main/images/data2.png?raw=true" alt="Data2" width=1000 height=353> 
+    <img src="https://github.com/CharlesDeLabra/Housing-Number-recognition-with-ANN/blob/main/images/data2.png?raw=true" alt="Data2" width=630 height=626> 
 </p>
 <br>
 
@@ -83,7 +83,7 @@ After creating and training the model, the results were the next ones:
 
 <br>
 <p align="center">
-    <img src="https://github.com/CharlesDeLabra/Housing-Number-recognition-with-ANN/blob/main/images/data3.png?raw=true" alt="Data3" width=1000 height=353> 
+    <img src="https://github.com/CharlesDeLabra/Housing-Number-recognition-with-ANN/blob/main/images/data3.png?raw=true" alt="Data3" width=630 height=626> 
 </p>
 <br>
 
