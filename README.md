@@ -42,7 +42,7 @@ The first steps was importing the data and after that it was necessary to see th
 
 <br>
 <p align="center">
-    <img src="https://github.com/CharlesDeLabra/Housing-Number-recognition-with-ANN/blob/main/images/data.png?raw=true" alt="Data" width=1000 height=353> 
+    <img src="https://github.com/CharlesDeLabra/Housing-Number-recognition-with-ANN/blob/main/images/data.png?raw=true" alt="Data" width=911 height=100> 
 </p>
 <br>
 
