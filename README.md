@@ -1,4 +1,4 @@
-# Used-Cars-Regression-Model
+# ANN Classification Problem: Digit Recognition
 <p align="center">
     <img src="https://github.com/CharlesDeLabra/Housing-Number-recognition-with-ANN/blob/main/images/number.png?raw=true" alt="Logo" width=72 height=72>
   <h3 align="center">Artificial Neural Networks: Street View Housing Number Digit Recognition</h3>
