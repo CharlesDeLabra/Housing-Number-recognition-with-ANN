@@ -30,7 +30,7 @@ There is a huge dataset of housing numbers and it is needed to train a model tha
 
 ## Code
 
-The program was written on Jupyter Notebooks in Python Language. You can access to the code [here](https://github.com/CharlesDeLabra/Used-Cars-Regression-Model/blob/main/Regression_Code.ipynb)
+The program was written on Jupyter Notebooks in Python Language. You can access to the code [here](https://github.com/CharlesDeLabra/Housing-Number-recognition-with-ANN/blob/main/ANN_Digits.ipynb)
 
 ## Status
 
